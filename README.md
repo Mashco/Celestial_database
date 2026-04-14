@@ -38,8 +38,4 @@ The schema includes at least **5 tables** with proper primary keys, foreign keys
 
 ```bash
 psql --username=freecodecamp --dbname=postgres < universe.sql
-```
-or use link above to preview code
----
-
-Part of the [freeCodeCamp Relational Database Certification](https://www.freecodecamp.org/learn/relational-database/)
+``` 
